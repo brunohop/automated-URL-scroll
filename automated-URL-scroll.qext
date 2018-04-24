@@ -1,0 +1,11 @@
+{
+    "name" : "Auto URL Scroll",
+    "description" : "Extension - automated/timed scroll through base sheets in different apps",
+    "icon" : "extension",
+    "type" : "visualization",
+    "version": "1.0.0",
+    "preview" : "bar",
+    "author": "Bruno Henrique de Oliveira Peixoto"
+}
+
+
